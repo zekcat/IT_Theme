@@ -1,0 +1,24 @@
+{
+  "name": "it-spa",
+  "version": "1.0.0",
+  "description": "spaTeamplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zekcat/IT_Theme.git"
+  },
+  "author": "zekcat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zekcat/IT_Theme/issues"
+  },
+  "homepage": "https://github.com/zekcat/IT_Theme#readme",
+  "devDependencies": {
+    "eslint": "^7.24.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}
